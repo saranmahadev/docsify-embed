@@ -2,7 +2,19 @@
 
 Plugin for [Docsify](https://docsify.js.org/) to embed different types of content.
 
-## Implementation
+## Usage
+Include the script by CDN - https://cdn.jsdelivr.net/gh/saranmahadev/docsify-embed@1.0.0/dist/docsify-embed.min.js
+
+```
+<script src="https://cdn.jsdelivr.net/gh/saranmahadev/docsify-embed@1.0.0/dist/docsify-embed.min.js">
+```
+
+[or]
+
+Download from the releases - https://github.com/saranmahadev/docsify-embed/releases/tag/v1.0.0 and include the file locally.
+
+
+## Features
 
 ### YouTube
 
