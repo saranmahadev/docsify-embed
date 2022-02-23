@@ -1,0 +1,19 @@
+{
+  "name": "docsify-embed",
+  "version": "1.0.0",
+  "description": "Plugin for Docsify to embed different content",
+  "main": "dist/docsify.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saranmahadev/docsify-embed.git"
+  },
+  "author": "Saran Mahadev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saranmahadev/docsify-embed/issues"
+  },
+  "homepage": "https://github.com/saranmahadev/docsify-embed#readme"
+}
